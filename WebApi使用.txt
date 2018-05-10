@@ -1,0 +1,4 @@
+﻿1. 在Agent Console页面,使用store.getState()获取id和sessionId;
+2. 在WebApi列表中Account项的get token方法获取token;
+3. 在右上方explore输入框中输入bearer + token,点击explore按钮;
+4. 此时可以正常测试其他WebApi接口

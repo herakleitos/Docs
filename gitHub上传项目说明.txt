@@ -1,0 +1,11 @@
+﻿gitHub 上传项目：
+1. 下载软件https://git-for-windows.github.io/
+2. 安装后，选中本地文件夹，右键选择Git Bash Here.
+3. 在出现的命令行界面输入 git clone + your repository url
+4. 命令执行完成后，本地文件夹中会出现repository folder
+5. 输入命令 cd + repository folder name，将操作目录转移到repository folder
+6. 将需要上传的项目复制到repository folder中
+7. 依次输入以下命令
+git add . （注：别忘记后面的.，此操作是把Test文件夹下面的文件都添加进来） 
+git commit -m “提交信息” （注：“提交信息”里面换成你需要，如“上传项目”） 
+git push -u origin master （注：此操作目的是把本地仓库push到github上面，此步骤需要你输入帐号和密码） 

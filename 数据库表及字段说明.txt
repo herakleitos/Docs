@@ -1,0 +1,4 @@
+﻿1. 验证邮件由后台服务发送，系统将发送请求写至表T_EMAIL_OUTBOUNDQUEUE.
+2. 验证邮件修改T_EMAILTICKET_EMAILSERVER表中的字段 IfVerified = 1,FirstPollStatus=0
+3. 用户表 T_USER{SiteId} , 用户组表T_Admin_OperatorGroups。
+4. 表T_EmailTicket_History{siteId},ActionType=26,代表回复信息

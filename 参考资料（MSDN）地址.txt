@@ -1,0 +1,15 @@
+Differences between the EWS Managed API 2.0 and EWS
+https://msdn.microsoft.com/zh-cn/library/dd633678(v=exchg.80).aspx
+ 
+ 
+Get started with EWS Managed API 2.0 client applications
+https://msdn.microsoft.com/zh-cn/library/jj220499(v=exchg.80).aspx
+ 
+ 
+Demo Example
+https://blogs.msdn.microsoft.com/emeamsgdev/2012/12/20/ews-push-notification-sample/
+
+Notification subscriptions, mailbox events, and EWS in Exchange
+https://msdn.microsoft.com/en-us/library/office/dn458791(v=exchg.150).aspx
+
+
