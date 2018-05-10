@@ -1,2 +1,0 @@
-1. ares@ent.com 111111 , ent.comm100.com . 192.168.2.29 
-2. ares@itent.com 111111 it environment
